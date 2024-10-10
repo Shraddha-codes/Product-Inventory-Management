@@ -1,0 +1,6 @@
+@ProductInventoryManagement_HostAddress = http://localhost:5096
+
+GET {{ProductInventoryManagement_HostAddress}}/
+Accept: application/json
+
+###
